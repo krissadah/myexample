@@ -1,6 +1,1 @@
-new Vue({
-    el: "#app",
-    data:{
-        nigga: h
-    }
-})
+console.log("hello")
